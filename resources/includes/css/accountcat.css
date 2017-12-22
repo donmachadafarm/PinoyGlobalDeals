@@ -1,0 +1,291 @@
+.features{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 900;
+}
+.account-head{
+  font-size: 30px;
+  font-weight: 900;
+	text-align: center;
+}
+.cat-viewbody{
+	margin: 0;
+	font-family: 'Open Sans', sans-serif;
+}
+.feat-ures{
+	margin: 10px 0 10px 0;
+	font-size: 20px;
+}
+.feat-label{
+	font-size:16px;
+}
+.feat-content{
+	font-family: 'Work Sans', sans-serif;
+	font-weight: bold;
+	margin-left: 25px;
+	font-size: 14px;
+}
+.feat-content1{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: bold;
+    margin-left: 25px;
+    font-size: 14px;
+}
+.feat-content2{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: bold;
+    margin-left: 43px;
+    font-size: 14px;
+}
+.feat-content3{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: bold;
+    margin-left: 49px;
+    font-size: 14px;
+}
+.feat-content4{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: bold;
+    margin-left: 62px;
+    font-size: 14px;
+}
+.feat-content5{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: bold;
+    margin-left: 102px;
+    font-size: 14px;
+}
+.feat-content6{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: bold;
+    margin-left: 114px;
+    font-size: 14px;
+}
+.feat-content7{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: bold;
+    margin-left: 131px;
+    font-size: 14px;
+}
+.feat-content8{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: bold;
+    margin-left: 80px;
+    font-size: 14px;
+}
+.feat-content9{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: bold;
+    margin-left: 38px;
+    font-size: 14px;
+}
+.t-body-wrap{
+  font-family: 'Lato', sans-serif;
+}
+.account-price{
+	font-family: 'Work Sans', sans-serif;
+    font-size: 23px;
+    font-weight: bold;
+}
+.popover1 {
+  position: absolute;
+  top: 0;
+  margin-top: 10px;
+  z-index: 1060;
+  color: white;
+  display: none;
+  width: 190px !important;
+  padding: 1px;
+  text-align: left;
+  white-space: normal;
+  background-color: #f77066 !important;
+  -webkit-background-clip: padding-box;
+  background-clip: padding-box;
+  border-radius: 0px !important;
+  -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+  box-shadow: 0 5px 10px rgba(0, 0, 0, .2);
+}
+.popover1 > .arrow,
+.popover1 > .arrow:after {
+  position: absolute;
+  display: block;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+}
+.popover1 > .arrow {
+  border-width: 11px;
+}
+.popover1 > .arrow:after {
+  border-width: 10px;
+  content: "";
+}
+.popover1 > .arrow {
+  left: 50%;
+  margin-left: -11px;
+  border-top-width: 0;
+  border-bottom-color: #f77066;
+  border-bottom-color: #f77066;
+  top: -11px;
+}
+.popover1 > .arrow:after {
+  content: " ";
+  top: 1px;
+  margin-left: -10px;
+  border-top-width: 0;
+  border-bottom-color: #f77066;
+}
+/*-------------------------------------*/
+.head-select-account{
+  font-family: 'Open Sans', sans-serif;
+  color:white;
+}
+.act-catwrap{
+  background-color: #282828;
+}
+.free-wrapper{
+  margin-top: 50px;
+  padding-left: 50px;
+  margin-bottom: 50px;
+  padding-right: 50px;
+}
+.advance-wrapper{
+  margin-top: 50px;
+  padding-left: 50px;
+  margin-bottom: 50px;
+  padding-right: 50px;
+}
+.premium-wrapper{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.free-wrap{
+  background-color: #489fd7;
+}
+.ad-wrap{
+  background-color: #39b54a;
+}
+.prem-wrap{
+  background-color: #de4940;
+}
+.free-head{
+  font-size: 23px;
+  font-weight: 400;
+  color:#fff;
+  font-family: 'Lato', sans-serif;
+}
+.advance-head{
+  font-size: 23px;
+  font-weight: 400;
+  color:#fff;
+  font-family: 'Lato', sans-serif;
+}
+.prem-head{
+  font-size: 23px;
+  font-weight: 400;
+  color:#fff;
+  font-family: 'Lato', sans-serif;
+}
+.cat-price{
+  color:#fff;
+  font-size: 23px;
+  font-weight: normal;
+  font-family: 'Lato', sans-serif;
+}
+.per-month{
+  padding-top: 10px;
+  color:#fff;
+  font-size: 16px;
+  text-transform: uppercase;
+  font-family: 'Lato', sans-serif;
+}
+.free-wraps{
+  background-color: #408fc1;
+}
+.five-wrap{
+  background-color: #33a242;
+}
+.four-five{
+  background-color: #c74139;
+}
+.free-feat{
+  font-family: 'Lato', sans-serif;
+  font-size: 15px;
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  background-color: #fff
+}
+.advance-feat{
+  font-size: 15px;
+  font-family: 'Lato', sans-serif;
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  background-color: #fff;
+}
+.prem-feat{
+  font-size: 15px;
+  font-family: 'Lato', sans-serif;
+  box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  background-color: #fff;
+}
+.btn-signup1{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    background-color: #489fd7;
+    color:#fff;
+    font-family: 'Open Sans', sans-serif;
+    -webkit-transition: background-color 2s ease-out;
+  -moz-transition: background-color 2s ease-out;
+  -o-transition: background-color 2s ease-out;
+  transition: background-color 2s ease-out;
+}
+.btn-signup1 a{
+    color:#fff;
+}
+.btn-signup1:hover{
+    background-color: #282828;
+}
+.btn-signup2{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    background-color: #39b54a;
+    color:#fff;
+    font-family: 'Open Sans', sans-serif;
+    -webkit-transition: background-color 2s ease-out;
+  -moz-transition: background-color 2s ease-out;
+  -o-transition: background-color 2s ease-out;
+  transition: background-color 2s ease-out;
+
+}
+.btn-signup2 a{
+    color:#fff;
+}
+.btn-signup2:hover{
+    background-color: #282828;
+}
+.btn-signup3{
+    margin-top: 20px;
+    margin-bottom: 30px;
+    background-color: #de4940;
+    color:#fff;
+    font-family: 'Open Sans', sans-serif;
+    -webkit-transition: background-color 2s ease-out;
+  -moz-transition: background-color 2s ease-out;
+  -o-transition: background-color 2s ease-out;
+  transition: background-color 2s ease-out;
+}
+.btn-signup3 a{
+    color:#fff;
+}
+.btn-signup3:hover{
+    background-color: #282828;
+}
+.fa-times{
+  color: #DB2929;
+}
+.fa-check{
+  color: #9ACD32;
+}
+.bold-this{
+  font-weight: bold;
+}
