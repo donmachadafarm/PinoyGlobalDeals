@@ -27,11 +27,11 @@ include 'plugins.php';
         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
           <span class="sr-only">Toggle navigation</span>
         </button>
-         <a class="hovicon effect-8" href=""><img width="70px" height="50px" src="images/pgd_logo.png" style="margin: 25px 0px">
+         <a class="hovicon effect-8" href="home.php"><img width="70px" height="50px" src="images/pgd_logo.png" style="margin: 25px 0px">
           </a>
       </div>
       <ul class="nav navbar-nav navbar-right" style="padding-top: 20px;">
-        <li class="hidden-sm hidden-md hidden-xs"><a href="" id ><button class="btn syitem" data-toggle="popover" data-template='<div class="popover1" role="tooltip">
+        <li class="hidden-sm hidden-md hidden-xs"><a href="accountsCategory.php" id ><button class="btn syitem" data-toggle="popover" data-template='<div class="popover1" role="tooltip">
                       <div class="arrow"></div>
                       <div class="popover-content"></div>
                     </div>'  data-content="Post Your Items For Free"><span>Sell Your Items Now</span></button></a></li>
@@ -92,7 +92,7 @@ include 'plugins.php';
                 <div class="row signme">
                 <div class="col-lg-2 col-md-2 col-sm-2 col-xs-1"></div>
                 <div class="col-lg-8 col-md-8 col-sm-8 col-xs-10 text-center">
-                    <span>Do you want to have an account? <a href="">Click here</a> to Sign Up</span>
+                    <span>Do you want to have an account? <a href="accountsCategory.php">Click here</a> to Sign Up</span>
                 </div>
                 <div class="col-lg-2"></div>
                 </div>
